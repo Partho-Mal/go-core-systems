@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Partho-Mal/go-core-systems-practice/day1-cache-ttl/cache"
+	"github.com/Partho-Mal/go-core-systems/day1-cache-ttl/cache"
 )
 
 func TestSetAndGet(t *testing.T) {

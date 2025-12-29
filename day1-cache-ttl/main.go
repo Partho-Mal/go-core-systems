@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"time"
 
-	cache "github.com/Partho-Mal/go-core-systems-practice/day1-cache-ttl/cache"
+	cache "github.com/Partho-Mal/go-core-systems/day1-cache-ttl/cache"
 )
 
 func main() {
